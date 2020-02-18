@@ -1,0 +1,3 @@
+[26-Sep-2019 04:45:27 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/tauntadi/public_html/bpbd/SIGuser/php/koneksidb.php on line 6
+[26-Sep-2019 04:45:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tauntadi/public_html/bpbd/SIGuser/php/markerlokasiaktif.php on line 17
+[26-Sep-2019 04:45:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tauntadi/public_html/bpbd/SIGuser/php/markerlokasiaktif.php on line 18

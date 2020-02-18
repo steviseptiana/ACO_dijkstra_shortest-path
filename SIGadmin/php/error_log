@@ -1,0 +1,19 @@
+[14-Jun-2019 17:45:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tauntadi_wina'@'localhost' to database 'tauntadi_sigtolis_evakuasibanjir' in /home/tauntadi/public_html/bpbd/SIGadmin/php/koneksidb.php on line 6
+[14-Jun-2019 17:45:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 38
+[14-Jun-2019 17:45:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 40
+[14-Jun-2019 17:45:27 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tauntadi_wina'@'localhost' to database 'tauntadi_sigtolis_evakuasibanjir' in /home/tauntadi/public_html/bpbd/SIGadmin/php/koneksidb.php on line 6
+[14-Jun-2019 17:45:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 38
+[14-Jun-2019 17:45:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 40
+[14-Jun-2019 17:45:49 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tauntadi_wina'@'localhost' to database 'tauntadi_sigtolis_evakuasibanjir' in /home/tauntadi/public_html/bpbd/SIGadmin/php/koneksidb.php on line 6
+[14-Jun-2019 17:45:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 38
+[14-Jun-2019 17:45:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 40
+[24-Jun-2019 07:40:00 UTC] PHP Warning:  move_uploaded_file(../Uploads/Untitled.png): failed to open stream: No such file or directory in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 88
+[24-Jun-2019 07:40:00 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoFFAhO' to '../Uploads/Untitled.png' in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 88
+[24-Jun-2019 07:40:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 104
+[24-Jun-2019 08:26:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 104
+[24-Jun-2019 08:27:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 104
+[24-Jun-2019 08:28:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 104
+[24-Jun-2019 08:35:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 104
+[24-Jun-2019 09:04:17 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 78
+[24-Jun-2019 09:04:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 104
+[30-Jun-2019 21:42:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tauntadi/public_html/bpbd/SIGadmin/php/crudtolis.php on line 104

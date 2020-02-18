@@ -1,0 +1,71 @@
+.panel-body {
+
+    padding: 15px;
+
+}
+
+.panel-default {
+
+    border-color: #ddd;
+
+}
+
+.panel-footer {
+
+    padding: 10px 15px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+
+}
+
+
+.panel-info > .panel-heading {
+
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+
+}
+
+.panel-info {
+
+    border-color: #bce8f1;
+
+}
+
+.panel-success > .panel-heading {
+
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+
+}
+
+.panel-success {
+
+    border-color: #d6e9c6;
+
+}
+
+.style1 
+{
+    background-color:#ffffff;font-weight:bold;border:2px #006699 solid;
+}
+
+.kotakkecil
+{
+    width:40px; 
+    height:40px; 
+    background-color:#4682B4; 
+    border-radius:6px;
+    cursor:pointer;
+    padding: 5px;
+    /*padding:5px;*/
+}
+
+.kotakkecil:hover
+{
+    background-color: #4972B4;  
+}

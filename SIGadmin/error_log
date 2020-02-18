@@ -1,0 +1,45 @@
+
+[10-Nov-2019 07:29:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[10-Nov-2019 10:27:02 UTC] PHP Notice:  Undefined index: nama in /home/tauntadi/public_html/bpbd/SIGadmin/lokasievakuasi.php on line 3
+[10-Nov-2019 10:27:02 UTC] PHP Notice:  Undefined index: nama_p in /home/tauntadi/public_html/bpbd/SIGadmin/lokasievakuasi.php on line 4
+[10-Nov-2019 10:27:02 UTC] PHP Notice:  Undefined index: filefoto in /home/tauntadi/public_html/bpbd/SIGadmin/lokasievakuasi.php on line 5
+[10-Nov-2019 10:27:02 UTC] PHP Notice:  Undefined variable: nama_p in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 56
+[10-Nov-2019 10:27:02 UTC] PHP Notice:  Undefined variable: ks in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 64
+[10-Nov-2019 10:27:02 UTC] PHP Notice:  Undefined variable: gambarr in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 73
+[18-Nov-2019 10:34:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:37:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:41:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:41:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:42:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:44:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:45:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:45:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:47:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:47:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 10:47:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 11:05:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 11:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 11:18:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 11:19:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 11:21:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 11:21:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 11:24:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 251
+[18-Nov-2019 11:34:02 UTC] PHP Notice:  Undefined index: nama in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 3
+[18-Nov-2019 11:34:02 UTC] PHP Notice:  Undefined index: nama_p in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 4
+[18-Nov-2019 11:34:02 UTC] PHP Notice:  Undefined index: filefoto in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 5
+[18-Nov-2019 11:34:02 UTC] PHP Notice:  Undefined variable: nama_p in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 56
+[18-Nov-2019 11:34:02 UTC] PHP Notice:  Undefined variable: ks in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 64
+[18-Nov-2019 11:34:02 UTC] PHP Notice:  Undefined variable: gambarr in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 73
+[18-Nov-2019 12:15:28 UTC] PHP Notice:  Undefined index: nama in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 3
+[18-Nov-2019 12:15:28 UTC] PHP Notice:  Undefined index: nama_p in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 4
+[18-Nov-2019 12:15:28 UTC] PHP Notice:  Undefined index: filefoto in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 5
+[18-Nov-2019 12:15:28 UTC] PHP Notice:  Undefined variable: nama_p in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 56
+[18-Nov-2019 12:15:28 UTC] PHP Notice:  Undefined variable: ks in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 64
+[18-Nov-2019 12:15:28 UTC] PHP Notice:  Undefined variable: gambarr in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 73
+[18-Nov-2019 12:16:30 UTC] PHP Notice:  Undefined index: nama in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 3
+[18-Nov-2019 12:16:30 UTC] PHP Notice:  Undefined index: nama_p in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 4
+[18-Nov-2019 12:16:30 UTC] PHP Notice:  Undefined index: filefoto in /home/tauntadi/public_html/bpbd/SIGadmin/pemblokiranjalan.php on line 5
+[18-Nov-2019 12:16:30 UTC] PHP Notice:  Undefined variable: nama_p in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 56
+[18-Nov-2019 12:16:30 UTC] PHP Notice:  Undefined variable: ks in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 64
+[18-Nov-2019 12:16:30 UTC] PHP Notice:  Undefined variable: gambarr in /home/tauntadi/public_html/bpbd/SIGadmin/modalakun.php on line 73

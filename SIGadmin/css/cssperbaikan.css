@@ -1,0 +1,62 @@
+/*gambar profil*/
+img.gamprofil
+{
+    border-radius: 10px;
+    width:50%; 
+    height:50%; 
+    max-width:100%; 
+    border: 2px solid #23527c;
+}
+
+img.gamprofil
+{
+    border-radius: 10px;
+    width:50%; 
+    height:50%; 
+    max-width:100%; 
+    border: 2px solid #23527c;
+}
+
+.btn-file 
+{
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-file input[type=file] 
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+/*hover icon li user sebelah kanan paling atas*/
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover:hover
+{
+    background: rgba(25, 25, 112, 0.2);
+}
+.nav > li > a:focus, .nav > li > a:hover
+{
+    text-decoration: none;
+    background: rgba(25, 25, 112, 0.03);
+}
+
+
+/*tulisan seleh kiri atas*/
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover
+{
+	color: white;
+	background-color: transparent;
+}
+
+/*menu kiri hover*/
